@@ -1740,10 +1740,10 @@ input, select, textarea {
 		  display: flex;
 		  justify-content: center;
 		  align-items: center;
-		  img {
+		  /* img {
 		      max-width: 100%;
 		      height: auto;
-		    }
+		    } */
 		}
 
 		.layer {
