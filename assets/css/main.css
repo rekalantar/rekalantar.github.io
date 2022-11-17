@@ -2195,11 +2195,11 @@ input, select, textarea {
 		padding: 1.5em 1em;
 		margin: 2.5em 0 0 0;
 	}
-		#banner img {
+		/* #banner img {
 			max-width: 500px;
 	    margin: 0 auto;
 
-		}
+		} */
 		#banner section {
 			margin: 0em 0;
 			padding: 1.5em 0;
