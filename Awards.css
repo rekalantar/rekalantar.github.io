@@ -32,6 +32,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
+  font-family: "Open Sans", sans-serif;
   margin: 18px 0 0;
 }
 
@@ -62,10 +63,6 @@
 
   .u-section-1 .u-layout-cell-1 {
     min-height: 472px;
-  }
-
-  .u-section-1 .u-text-2 {
-    font-family: "Open Sans", sans-serif;
   }
 
   .u-section-1 .u-image-1 {
@@ -147,7 +144,11 @@
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
+    min-height: 524px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 236px;
   }
 
   .u-section-1 .u-text-2 {

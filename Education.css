@@ -81,7 +81,7 @@
   font-size: 1.4375rem;
   font-weight: 700;
   --animation-custom_in-scale: 1;
-  margin: 42px 2px 0;
+  margin: 37px 2px 0;
 }
 
 .u-section-2 .u-text-2 {
@@ -306,7 +306,7 @@
   font-size: 1.4375rem;
   font-weight: 700;
   --animation-custom_in-scale: 1;
-  margin: 39px 115px 0 53px;
+  margin: 39px 95px 0 73px;
 }
 
 .u-section-3 .u-text-2 {
@@ -317,7 +317,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   font-weight: normal;
-  margin: 3px 16px 0 53px;
+  margin: 3px -4px 0 73px;
 }
 
 .u-section-3 .u-text-3 {
@@ -329,7 +329,7 @@
   --animation-custom_in-scale: 1;
   font-weight: normal;
   font-family: "PT Serif";
-  margin: 26px 67px 0 53px;
+  margin: 26px 47px 0 73px;
 }
 
 .u-section-3 .u-layout-cell-2 {
