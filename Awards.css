@@ -38,7 +38,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 572px;
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Bacpacman_awards_cool_gold_and_black_81b9ef99-eaf7-4320-8154-324d37e8009f.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("/images/Bacpacman_awards_cool_gold_and_black_81b9ef99-eaf7-4320-8154-324d37e8009f.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
