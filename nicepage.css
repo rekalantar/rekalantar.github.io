@@ -40055,16 +40055,17 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
 .u-header .u-sheet-1 {
-  min-height: 83px;
+  min-height: 114px;
 }
 
 .u-header .u-menu-1 {
-  margin: 23px auto;
+  margin: 56px auto 20px;
 }
 
 .u-header .u-nav-1 {
-  font-family: "PT Serif";
   font-size: 1.125rem;
+  font-family: "PT Serif";
+  font-weight: normal;
 }
 
 .u-header .u-nav-2 {
