@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   background-image: url("/images/Bacpacman_AI_technology_themed_neural_with_neon_hyper_realistic_de29a985-3de1-4916-9b13-10067405faf2.png");
   background-position: 50% 50%;
 }
@@ -29,7 +29,8 @@
   .u-section-1 .u-sheet-1 {
     min-height: 30px;
   }
-} .u-section-2 {
+} 
+.u-section-2 {
   background-image: none;
 }
 
@@ -190,7 +191,8 @@
   .u-section-2 .u-accordion-1 {
     margin-bottom: 34px;
   }
-} .u-section-3 {
+} 
+.u-section-3 {
   background-image: none;
 }
 
@@ -308,4 +310,22 @@
   .u-section-3 .u-text-5 {
     font-size: 0.875rem;
   }
+}
+
+.u-accordion-link {
+  font-family: "Times New Roman", Times, serif !important;
+  font-size: 1rem !important;
+  font-weight: normal !important;
+  padding: 25px 30px !important;
+}
+
+.u-accordion-pane {
+  background-color: #ffffff !important;
+  min-height: 150px !important;
+}
+
+.u-icon {
+  height: 17px !important;
+  width: 17px !important;
+  color: rgb(0, 0, 0) !important;
 }
