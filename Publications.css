@@ -237,6 +237,19 @@
   margin: 25px 0 33px;
 }
 
+.u-section-3 .u-text-2,
+.u-section-3 .u-text-3,
+.u-section-3 .u-text-4,
+.u-section-3 .u-text-5,
+.u-section-3 .u-text-6,
+.u-section-3 .u-text-7 {
+  font-family: "Times New Roman", Times, serif !important; /* Match font with older entries */
+  font-size: 1rem !important; /* Ensure consistent font size */
+  line-height: 1.88 !important; /* Match line height */
+  margin: 25px 0 0 !important; /* Ensure consistent spacing */
+  text-align: left !important; /* Align text to the left */
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-text-1 {
     width: 209px;
