@@ -329,3 +329,13 @@
   width: 17px !important;
   color: rgb(0, 0, 0) !important;
 }
+
+.u-container-layout {
+  padding: 20px 30px !important; /* Ensure consistent padding for all abstracts */
+}
+
+.fr-view p {
+  margin: 0 0 1rem !important; /* Ensure consistent spacing between paragraphs */
+  text-indent: 0 !important; /* Remove any unintended indentation */
+  line-height: 1.5 !important; /* Ensure consistent line height */
+}
