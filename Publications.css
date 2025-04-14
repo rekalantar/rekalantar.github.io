@@ -250,6 +250,14 @@
   text-align: left !important; /* Align text to the left */
 }
 
+.u-section-3 h2 {
+  font-family: "Times New Roman", Times, serif !important; /* Ensure consistent font */
+  font-size: 1rem !important; /* Ensure consistent font size */
+  line-height: 1.88 !important; /* Ensure consistent line height */
+  margin: 25px 0 0 !important; /* Ensure consistent spacing */
+  text-align: left !important; /* Align text to the left */
+}
+
 @media (max-width: 1199px) {
   .u-section-3 .u-text-1 {
     width: 209px;
